@@ -1,9 +1,11 @@
-header{padding: 25px;}
+header{padding: 10px;}
 
 article{margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 80px;
   margin-left: 80px;
 }
+
+article{background-color: pink;}
 h2{background-color: cornflowerblue;}
 p{background-color: yellow;}
