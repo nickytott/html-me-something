@@ -2,8 +2,8 @@ header{padding: 25px;}
 
 article{margin-top: 100px;
   margin-bottom: 100px;
-  margin-right: 150px;
+  margin-right: 80px;
   margin-left: 80px;
 }
-
-main {backround-color: yellow;}
+h2{backround-color: green;}
+p{backround-color: yellow;}
